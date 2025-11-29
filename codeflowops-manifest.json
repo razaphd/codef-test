@@ -1,0 +1,211 @@
+{
+  "version": "1.0",
+  "repository": {
+    "owner": "razaphd",
+    "name": "codef-test",
+    "url": "https://github.com/razaphd/codef-test",
+    "isPrivate": false
+  },
+  "documentation": {
+    "generatedAt": "2025-11-29T14:05:10.890Z",
+    "commitHash": "15da0455ceba908e7153cfb907f4bb6b13bfdb81",
+    "branch": "main",
+    "totalWordCount": 8205,
+    "sectionsCount": 17,
+    "techStack": []
+  },
+  "sections": [
+    {
+      "sectionNumber": 1,
+      "title": "Executive Summary",
+      "wordCount": 530,
+      "keyTopics": [
+        "project purpose",
+        "business context",
+        "technology overview"
+      ],
+      "codeLinks": []
+    },
+    {
+      "sectionNumber": 2,
+      "title": "System Architecture",
+      "wordCount": 536,
+      "keyTopics": [
+        "system components",
+        "data flow",
+        "deployment strategy"
+      ],
+      "codeLinks": []
+    },
+    {
+      "sectionNumber": 3,
+      "title": "Data Architecture",
+      "wordCount": 479,
+      "keyTopics": [
+        "data models",
+        "data storage",
+        "data validation"
+      ],
+      "codeLinks": []
+    },
+    {
+      "sectionNumber": 4,
+      "title": "Core Features & Workflows",
+      "wordCount": 509,
+      "keyTopics": [
+        "business processes",
+        "user interactions",
+        "workflow automation"
+      ],
+      "codeLinks": []
+    },
+    {
+      "sectionNumber": 5,
+      "title": "API Reference",
+      "wordCount": 400,
+      "keyTopics": [
+        "API endpoints",
+        "authentication",
+        "request/response formats"
+      ],
+      "codeLinks": []
+    },
+    {
+      "sectionNumber": 6,
+      "title": "Security Architecture",
+      "wordCount": 457,
+      "keyTopics": [
+        "authentication",
+        "authorization",
+        "data protection"
+      ],
+      "codeLinks": []
+    },
+    {
+      "sectionNumber": 7,
+      "title": "DevOps & Deployment",
+      "wordCount": 469,
+      "keyTopics": [
+        "CI/CD processes",
+        "deployment environments",
+        "containerization"
+      ],
+      "codeLinks": []
+    },
+    {
+      "sectionNumber": 8,
+      "title": "Reliability & Performance",
+      "wordCount": 479,
+      "keyTopics": [
+        "error handling",
+        "system monitoring",
+        "scalability"
+      ],
+      "codeLinks": []
+    },
+    {
+      "sectionNumber": 9,
+      "title": "Threat Modeling & Security Analysis",
+      "wordCount": 505,
+      "keyTopics": [
+        "STRIDE analysis",
+        "attack surface",
+        "risk assessment"
+      ],
+      "codeLinks": []
+    },
+    {
+      "sectionNumber": 10,
+      "title": "Compliance & Regulatory",
+      "wordCount": 518,
+      "keyTopics": [
+        "HIPAA",
+        "GDPR",
+        "audit requirements"
+      ],
+      "codeLinks": []
+    },
+    {
+      "sectionNumber": 11,
+      "title": "Non-Functional Requirements (NFR) Matrix",
+      "wordCount": 479,
+      "keyTopics": [
+        "availability",
+        "scalability",
+        "performance targets"
+      ],
+      "codeLinks": []
+    },
+    {
+      "sectionNumber": 12,
+      "title": "SLO/SLA/SLI Definitions",
+      "wordCount": 481,
+      "keyTopics": [
+        "service level objectives",
+        "service agreements",
+        "error budgets"
+      ],
+      "codeLinks": []
+    },
+    {
+      "sectionNumber": 13,
+      "title": "Observability & Monitoring",
+      "wordCount": 459,
+      "keyTopics": [
+        "logging",
+        "metrics",
+        "alerting"
+      ],
+      "codeLinks": []
+    },
+    {
+      "sectionNumber": 14,
+      "title": "Infrastructure as Code (IaC)",
+      "wordCount": 444,
+      "keyTopics": [
+        "terraform",
+        "kubernetes",
+        "configuration management"
+      ],
+      "codeLinks": []
+    },
+    {
+      "sectionNumber": 15,
+      "title": "Disaster Recovery & Business Continuity",
+      "wordCount": 517,
+      "keyTopics": [
+        "RTO",
+        "RPO",
+        "failover strategies"
+      ],
+      "codeLinks": []
+    },
+    {
+      "sectionNumber": 16,
+      "title": "Versioning & Release Management",
+      "wordCount": 501,
+      "keyTopics": [
+        "semantic versioning",
+        "release process",
+        "rollback procedures"
+      ],
+      "codeLinks": []
+    },
+    {
+      "sectionNumber": 17,
+      "title": "Future Roadmap",
+      "wordCount": 442,
+      "keyTopics": [
+        "current limitations",
+        "future improvements",
+        "suggested features"
+      ],
+      "codeLinks": []
+    }
+  ],
+  "allCodeLinks": [],
+  "checksum": {
+    "manifestHash": "54191780fadacaf8eccac2a36621727996f9e8eaa0192c5988c6bc60104763f8",
+    "combinedCodeHash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  }
+}
